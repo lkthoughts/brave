@@ -1,4 +1,4 @@
 # brave
 Shell Script For Install Brave Browser.
-If You'er in CTL and the repository cant find brave.
+If You'r in CTL and the repository can't find brave.
 2022/11/25
